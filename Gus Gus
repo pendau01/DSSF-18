@@ -2,6 +2,7 @@
 <head>
 <title> Gus Gus: The beautiful mouse
 </title>
+<link rel="stylesheet" href="Style.CSS">
 </head>
 <body> 
 <h1> Gus Gus; The beautiful mouse</h1>
